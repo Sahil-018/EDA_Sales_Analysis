@@ -158,7 +158,11 @@ Your notebook was missing 9 analyses that the complete report added:
 4. **Q3 is the peak quarter** (data-verified) — plan inventory and promotions around July–September.
 5. **Clothing needs a margin strategy** — highest volume, lowest revenue per unit (INR 82). Bundling or upselling is the fix.
 
-Copyright © 2026 Sahil Kale.
+---
+
+## Copyright and Usage
+
+Copyright © 2026 Sahil Kale.  
 All rights reserved.
 
 This project is shared on GitHub for portfolio and internship evaluation
